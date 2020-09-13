@@ -58,7 +58,6 @@ public class ArthmaticOperator {
         System.out.println(c);*/
         
         
-        
     }
     
 }
