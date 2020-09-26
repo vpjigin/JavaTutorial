@@ -11,6 +11,8 @@ package javatutorial.class_four;
  */
 public class Arrays {
     
+    protected int i = 20;
+    
     public static void main(String[] args) {
         
         //Syntax objectname[] variable_name = new objectname[size];
@@ -34,9 +36,6 @@ public class Arrays {
         String data1[] = new String[8];
         
         String data2[] = new String[]{"abc","cde"};
-        
-        
-        
         
         
     }
